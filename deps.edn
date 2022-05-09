@@ -1,0 +1,3 @@
+{
+  :deps {metosin/malli {:git/tag "0.8.4" :git/sha "002d5cb"}} 
+}
