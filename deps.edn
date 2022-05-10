@@ -1,5 +1,5 @@
 {
   :deps {io.github.metosin/malli {:git/url "https://try.gitea.io/zharinov/malli.git" :git/tag "0.8.3" :git/sha "806fa14"}
          org.clojure/tools.deps.alpha {:git/url "https://gitlab.com/zharinov/tools.deps.alpha"
-                                       :sha "e4fb92eef724fa39e29b39cc2b1a850567d490dd"}} 
+                                       :sha "1a25bcf1c885d4874917383150edb8475e7dd223"}} 
 }
